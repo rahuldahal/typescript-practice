@@ -1,0 +1,14 @@
+{
+  "name": "typescript-practice",
+  "license": "MIT",
+  "scripts": {
+    "compile": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "version": "1.0.0",
+  "repository": "https://github.com/rahuldahal/typescript-practice",
+  "author": "Rahul Dahal",
+  "private": false
+}
